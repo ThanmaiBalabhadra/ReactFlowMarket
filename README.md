@@ -16,7 +16,5 @@ Add functionality: Add functionality to the app, such as displaying menu items, 
 
 Test the app: Test the app thoroughly to ensure that all features work as expected.
 
-Live Demo:react-flow-market-5meypneb0-thanmai-balabhadras-projects.vercel.app/
-
-Live Demo -https://spectacular-dasik-70af80.netlify.app/
+Live Demo:
 
